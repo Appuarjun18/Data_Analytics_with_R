@@ -1,0 +1,13 @@
+a1=c(1,2,3,4,5,6)
+a1
+length(a1)
+a2=array(a1)
+a2
+a3=array(c(2,4,6,8,10))
+a3
+a4=array(seq(1,10))
+a4
+a5=array(seq(1,9),dim=c(3,3))
+a5
+a6=array(seq(1,8),dim=c(4,2))
+a6

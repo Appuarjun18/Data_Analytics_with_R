@@ -1,0 +1,9 @@
+vec1=seq(1,100)
+vec1
+sum(vec1)
+vec1=seq(1,100,by=20)
+vec1
+sum(vec1)
+vec1=seq(1,100,length.out=19)
+vec1
+sum(vec1)
